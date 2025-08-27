@@ -29,13 +29,7 @@ Die Software analysiert Jobausschreibungen und erstellt daraus **maßgeschneider
 
 ---
 
-## 📸 Screenshots (Platzhalter)
+## 📸 Screenshots
 
-
-
-```markdown
+### Benutzeroberfläche
 ![Screenshot Oberfläche](docs/screenshot_ui.jpg)
-
-Weboberfläche (HTML/CSS/JS)
-
-Lokales Hosting im Heimnetz
