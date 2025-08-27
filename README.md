@@ -31,5 +31,6 @@ Die Software analysiert Jobausschreibungen und erstellt daraus **maßgeschneider
 
 ## 📸 Screenshots
 
-### Benutzeroberfläche
-![Screenshot Oberfläche](docs/screenshot_ui.jpg)
+<p align="center">
+  <img src="docs/screenshot_ui.jpg" alt="UI Screenshot" width="500"/>
+</p>
