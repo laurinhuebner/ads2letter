@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Server Dashboard Banner" width="100%">
+  <img src="./banner.png" alt="ads2letter Banner" width="100%">
 </p>
 
 # 📄 ads2letter
