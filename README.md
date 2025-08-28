@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Server Dashboard Banner" width="100%">
+</p>
+
 # 📄 ads2letter
 
 **Serverbasierte KI-Anwendung (Debian), die Jobausschreibungen automatisch in individuelle Anschreiben umwandelt.**
